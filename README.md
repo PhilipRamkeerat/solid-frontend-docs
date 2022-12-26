@@ -19,3 +19,11 @@ Os clientes não devem ser forçados a depender de interfaces que não usam. Iss
 
 ## Dependency Inversion Principle (Princípio da Inversão de Dependência)
 Os módulos de alto nível não devem depender de módulos de baixo nível. Em vez disso, ambos devem depender de abstrações. Isso significa que os módulos de alto nível (como componentes de interface do usuário) devem depender de abstrações (como interfaces), e não de implementações concretas (como classes específicas).
+
+Links para estudos :
+
+https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa
+
+https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+
+https://thefullstack.xyz/solid-javascript/
